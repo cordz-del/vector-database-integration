@@ -1,0 +1,1 @@
+# Include vector database client libraries if needed, e.g., pinecone-client
